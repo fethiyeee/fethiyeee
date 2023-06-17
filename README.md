@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Fethiye Ayhan
 
- 🌱 I’m currently learning HTML and CSS..
+ 🌱 I’m currently learning Selenium..
 
 
 # 💻 Tech Stack:
