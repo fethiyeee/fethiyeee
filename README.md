@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Fethiye Ayhan  
+# Hi 👋, I'm Fethiye.. 
 👉 https://fethiyeee.github.io/MyPortfolio/
 
  🌱 I’m currently learning Selenium..
