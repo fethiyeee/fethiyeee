@@ -2,7 +2,7 @@
 # Hi 👋, I'm Fethiye.. 
 👉 https://fethiyeee.github.io/MyPortfolio/
 
- 🌱 I’m currently learning Jenkins..
+ 🌱 I’m currently learning MySQL..
 
 
 # 💻 Tech Stack:
@@ -23,6 +23,7 @@
 ![SDLC](https://img.shields.io/badge/SDLC-%2300cc00.svg?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%230066cc.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![MySQL ](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white', 'white');
 
 
 
