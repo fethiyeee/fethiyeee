@@ -24,6 +24,7 @@
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%230066cc.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JUnit-%23FF6600.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
 
 
