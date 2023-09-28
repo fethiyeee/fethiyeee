@@ -16,7 +16,7 @@
 ![Maven](https://img.shields.io/badge/Maven-%23FF0000.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 [![Selenium](https://img.shields.io/badge/-Selenium-%23808080?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=%2343B02A)](https://selenium.dev/)
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23008000.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%23FF6600.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%23FF6600.svg?style=for-the-badge&logo=junit&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=testng&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%23004d00.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Page Object Model (POM)](https://img.shields.io/badge/Page%20Object%20Model%20(POM)-%23006699.svg?style=for-the-badge)
@@ -24,7 +24,7 @@
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%230066cc.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JUnit-%23FF6600.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23FF6600.svg?style=for-the-badge&logo=jdbc&logoColor=white)
 
 
 
