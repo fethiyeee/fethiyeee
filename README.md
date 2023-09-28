@@ -2,7 +2,7 @@
 # Hi 👋, I'm Fethiye.. 
 👉 https://fethiyeee.github.io/MyPortfolio/
 
- 🌱 I’m currently learning MySQL..
+ 🌱 I’m currently learning JDBC..
 
 
 # 💻 Tech Stack:
