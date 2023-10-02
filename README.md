@@ -2,7 +2,7 @@
 # Hi 👋, I'm Fethiye.. 
 👉 https://fethiyeee.github.io/MyPortfolio/
 
- 🌱 I’m currently learning JDBC..
+ 🌱 I’m currently learning Postman and API..
 
 
 # 💻 Tech Stack:
