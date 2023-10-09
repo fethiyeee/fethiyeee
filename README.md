@@ -1,5 +1,5 @@
 
-                                                    # Hi 👋, I'm Fethiye.. 
+  # Hi 👋, I'm Fethiye.. 
 👉 https://fethiyeee.github.io/MyPortfolio/
 
  🌱 I’m currently learning Postman and API..
