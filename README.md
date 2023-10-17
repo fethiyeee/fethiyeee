@@ -24,7 +24,11 @@
 ![STLC](https://img.shields.io/badge/STLC-%23ff66ff.svg?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%230066cc.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-%23FF6600.svg?style=for-the-badge&logo=jdbc&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%2300758F.svg?style=for-the-badge&logo=java&logoColor=white)
+![Rest API](https://img.shields.io/badge/Rest%20API-%23006699.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-%23008000.svg?style=for-the-badge&logo=appium&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-%23282A36.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
